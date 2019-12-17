@@ -9,7 +9,7 @@ The goal of this project is to add basic VR features to the default UE4 VR map:
 - Laser pointer interaction: grab, move, rotate
 - etc.
 
-Check MotionControllerMap, MotionControllerPawn and BP_MotionController for new stuff.
+Check `MotionControllerMap`, `MotionControllerPawn` and `BP_MotionController` for the new/modified stuff.
 The modified or new parts are commented in Orange.
 
 Contact: https://twitter.com/games_inu
