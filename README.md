@@ -12,6 +12,6 @@ The goal of this project is to add basic VR features to the default UE4 VR map:
 Check `MotionControllerMap`, `MotionControllerPawn` and `BP_MotionController` for the new/modified stuff.
 The modified or new parts are commented in Orange.
 
-Contact: https://twitter.com/games_inu
+Unreal Forum thread: https://forums.unrealengine.com/development-discussion/vr-ar-development/1701223-vr-interaction-project-open-source
 
 
